@@ -8,3 +8,4 @@ solutions with explanations for Project Euler questions in Python 3.x
 
 Q1. multiplesOf3And5.py
 Q2. evenFibNums.py
+Q3. largestPrimeFactor.py
